@@ -1,0 +1,1 @@
+My repo for a Neural Network from Scratch to diagnose cancer from the Wisconsin dataset. Part of CIS6005
